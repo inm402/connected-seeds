@@ -1,8 +1,10 @@
 ---
+layout: default
 id: litvis
 
 narrative-schemas:
   - ../narrative-schemas/proposal.yml
+  
 ---
 
 @import "../css/datavis.less"
