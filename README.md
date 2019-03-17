@@ -1,3 +1,3 @@
 # connected-seeds
 
-kick 
+kick it
