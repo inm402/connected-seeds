@@ -1,16 +1,11 @@
 ---
 layout: default
-title: Proposal
+title: INM402 Data Visualisation Coursework Proposal
 id: litvis
 
 narrative-schemas:
-  - ../narrative-schemas/proposal.yml
-  
+  - /narrative-schemas/proposal.yml
 ---
-
-@import "../css/datavis.less"
-
-# Coursework: Project Proposal
 
 {(questions|}
 
